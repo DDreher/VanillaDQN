@@ -5,6 +5,8 @@ In this notebook a **vanilla Q-Network** is implemented with **Tensorflow 2.3** 
 The focus of this implementation is to get the algorithm to work and provide a starting point for further tweaks and experiments.    
 Therefore: Simple architecture, simple task, no fancy extras.
 
+The notebook is also available and ready to run on [Kaggle](https://www.kaggle.comvanilla-dqn-cartpole-tensorflow-2-3).
+
 ## This includes:
 * Experience Replay / Replay
 * An epsilon schedule
