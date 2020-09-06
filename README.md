@@ -8,7 +8,7 @@ Therefore: Simple architecture, simple task, no fancy extras.
 The notebook is also available and ready to run on [Kaggle](https://www.kaggle.comvanilla-dqn-cartpole-tensorflow-2-3).
 
 ## This includes:
-* Experience Replay / Replay
+* Experience Replay / Replay Buffer
 * An epsilon schedule
 * The E-Greedy Policy
 * The compute graph of the Deep Q-Network
