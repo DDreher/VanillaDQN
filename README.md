@@ -1,6 +1,6 @@
 # Vanilla DQN
 
-In this notebook a **vanilla Q-Network** is implemented with **Tensorflow 2.3** and trained to complete the **CartPole-v0** environment of the OpenAI gym.
+In this notebook a **vanilla Q-Network** is implemented with **Tensorflow 2.3** and trained to solve the **CartPole-v0** environment of the OpenAI gym.
 
 The focus of this implementation is to get the algorithm to work and provide a starting point for further tweaks and experiments.    
 Therefore: Simple architecture, simple task, no fancy extras.
